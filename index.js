@@ -20,7 +20,7 @@ document.getElementById("defaultOpen").click();
 
 //전화 걸기 스크립트
 function phoneCall(phoneNumber) {
-    location.href = "tel:" + 01045869620;
+    location.href = "tel:+" + 8201045869620;
   }
 
 // 이미지 슬라이드 스크립트
